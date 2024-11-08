@@ -1,0 +1,27 @@
+.container_1{
+    border: black 2px solid ;
+    border-radius: 16px;
+    width: 600px ;
+    display: flex;
+    padding-left: 30px;
+    padding-bottom: 20px;
+    background-color: whitesmoke;
+    margin-left: 455px;
+    margin-top: 220px;
+}
+#user,#pass{
+    width: 560px;
+    border-radius: 3px;
+    border: 3px;
+    box-shadow: 3px rgb(22, 22, 22);
+    margin-bottom: 15px;
+    height: 25px;
+}
+.submit{
+    background-color: lightgreen;
+    border: none ;
+    width: 60px;
+    height: 20px;
+    border-radius: 3px;
+    
+}
